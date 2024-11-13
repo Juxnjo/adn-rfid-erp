@@ -1,0 +1,18 @@
+[
+ {
+  "default_value": null,
+  "doc_type": "Asset",
+  "docstatus": 0,
+  "doctype": "Property Setter",
+  "doctype_or_field": "DocType",
+  "field_name": null,
+  "is_system_generated": 0,
+  "modified": "2023-11-27 17:40:40.416631",
+  "module": null,
+  "name": "Asset-main-field_order",
+  "property": "field_order",
+  "property_type": "Data",
+  "row_name": null,
+  "value": "[\"company\", \"item_code\", \"item_name\", \"asset_owner\", \"asset_owner_company\", \"is_existing_asset\", \"is_composite_asset\", \"supplier\", \"customer\", \"image\", \"journal_entry_for_scrap\", \"column_break_3\", \"naming_series\", \"asset_name\", \"asset_category\", \"location\", \"split_from\", \"custodian\", \"department\", \"disposal_date\", \"accounting_dimensions_section\", \"cost_center\", \"dimension_col_break\", \"purchase_details_section\", \"purchase_receipt\", \"purchase_invoice\", \"available_for_use_date\", \"custom_barcode\", \"column_break_23\", \"gross_purchase_amount\", \"asset_quantity\", \"purchase_date\", \"section_break_23\", \"calculate_depreciation\", \"column_break_33\", \"opening_accumulated_depreciation\", \"number_of_depreciations_booked\", \"is_fully_depreciated\", \"section_break_36\", \"finance_books\", \"section_break_33\", \"depreciation_method\", \"value_after_depreciation\", \"total_number_of_depreciations\", \"column_break_24\", \"frequency_of_depreciation\", \"next_depreciation_date\", \"section_break_14\", \"schedules\", \"insurance_details\", \"policy_number\", \"insurer\", \"insured_value\", \"column_break_48\", \"insurance_start_date\", \"insurance_end_date\", \"comprehensive_insurance\", \"section_break_31\", \"maintenance_required\", \"other_details\", \"status\", \"booked_fixed_asset\", \"column_break_51\", \"purchase_receipt_amount\", \"default_finance_book\", \"depr_entry_posting_status\", \"amended_from\", \"capitalized_in\"]"
+ }
+]

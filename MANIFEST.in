@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include rfid *.css
+recursive-include rfid *.csv
+recursive-include rfid *.html
+recursive-include rfid *.ico
+recursive-include rfid *.js
+recursive-include rfid *.json
+recursive-include rfid *.md
+recursive-include rfid *.png
+recursive-include rfid *.py
+recursive-include rfid *.svg
+recursive-include rfid *.txt
+recursive-exclude rfid *.pyc
